@@ -1,8 +1,8 @@
 # 👋 Hello, I'm  Md.Bokul islam
-
+![Bokul Islam](images/bokul.png)
 - 🔭 web developer
 - 🏠 Living in Dhaka, Bangladesh
-- 🎓 I am currenty study in B.sc in cse at BUBT.
+- 📚 I am currenty study in B.sc in CSE at BUBT.
 
 ## 👨‍🏫 About Me
 
@@ -26,11 +26,9 @@ c, c++, java, android, python.
 
 ## 🌐 Languages
 
-- 🇧🇩 Bangla: Native
+- BD Bangla: Native
 - 🏴 English: Advanced
-- 🇮🇳 Hindi: Intermediate
-
-
+- IN Hindi: Intermediate
 
 
 ## 🏆 Sports / Games / Activities / Hobbies
